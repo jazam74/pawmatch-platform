@@ -1,35 +1,23 @@
-# PawMatch 🐾
+# 🐾 PawMatch
 
 > Helping every pet find the right home.
 
----
-
 ## Mission
 
-PawMatch is a global adoption platform connecting pets that need a home with people ready to adopt them.
+PawMatch is a global platform connecting pets that need a home with people ready to adopt them.
 
-Our goal is simple:
+## Vision
 
-**Help more animals find loving homes.**
-
----
+Become the world's most trusted pet adoption platform.
 
 ## Current Status
 
 🚧 Planning (Sprint 0)
 
----
+## Technology (planned)
 
-## Project Structure
-
-/docs
-/design
-/apps
-/backend
-/infrastructure
-
----
-
-## Vision
-
-Become the world's most trusted pet adoption platform.
+- Flutter
+- Supabase
+- PostgreSQL
+- Firebase Cloud Messaging
+- GitHub Actions
